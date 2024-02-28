@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  * <h1>通用响应对象定义</h1>
- * Created by Qinyi.
+ * Created by Marbach
  */
 //vo:value object
 @Data
