@@ -20,7 +20,7 @@ import javax.persistence.*;
 import java.io.Serializable;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
+//entity 业务领域对象
 /**
  * <h1>优惠券模板实体类定义: 基础属性 + 规则属性</h1>
  * Created by Marbach

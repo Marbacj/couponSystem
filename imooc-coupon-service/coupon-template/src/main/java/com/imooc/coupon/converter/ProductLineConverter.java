@@ -7,7 +7,7 @@ import javax.persistence.Converter;
 
 /**
  * <h1>产品线枚举属性转换器</h1>
- * Created by Qinyi.
+ * Created by Marbach
  */
 @Converter
 public class ProductLineConverter

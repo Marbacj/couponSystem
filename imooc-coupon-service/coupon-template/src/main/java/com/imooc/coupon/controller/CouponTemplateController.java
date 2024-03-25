@@ -21,7 +21,7 @@ import java.util.Map;
 
 /**
  * <h1>优惠券模板相关的功能控制器</h1>
- * Created by Qinyi.
+ * Created by Marbach
  */
 @Slf4j
 @RestController
@@ -62,6 +62,7 @@ public class CouponTemplateController {
         log.info("Build Template Info For: {}", id);
         return templateBaseService.buildTemplateInfo(id);
     }
+
 
     /**
      * <h2>查找所有可用的优惠券模板</h2>

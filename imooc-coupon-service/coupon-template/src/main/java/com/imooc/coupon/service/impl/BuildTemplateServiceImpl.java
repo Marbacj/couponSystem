@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 
 /**
  * <h1>构建优惠券模板接口实现</h1>
- * Created by Qinyi.
+ * Created by Marbach
  */
 @Slf4j
 @Service

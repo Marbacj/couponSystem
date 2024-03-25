@@ -30,6 +30,7 @@ import java.util.Date;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
+//通过entity标签注明这是
 @EntityListeners(AuditingEntityListener.class)
 @Table(name = "coupon")
 @JsonSerialize(using = CouponSerialize.class)

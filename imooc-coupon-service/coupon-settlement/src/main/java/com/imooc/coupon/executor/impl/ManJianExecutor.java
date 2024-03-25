@@ -12,7 +12,7 @@ import java.util.Collections;
 
 /**
  * <h1>满减优惠券结算规则执行器</h1>
- * Created by Qinyi.
+ * Created by Marbach
  */
 @Slf4j
 @Component

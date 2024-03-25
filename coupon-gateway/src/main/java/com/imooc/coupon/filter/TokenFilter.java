@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
  */
 @Slf4j
 //用于打印日志
-//@Component
+@Component
 //这是一个组件
 public class TokenFilter extends AbstractPreZuulFilter {
 

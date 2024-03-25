@@ -40,7 +40,7 @@ import java.util.stream.Collectors;
  * 所有的操作过程, 状态都保存在 Redis 中, 并通过 Kafka 把消息传递到 MySQL 中
  * 为什么使用 Kafka, 而不是直接使用 SpringBoot 中的异步处理 ?
  * 安全,保证一致性,高可用的消息队列
- * Created by Qinyi.
+ * Created by Marbach
  */
 @Slf4j
 @Service

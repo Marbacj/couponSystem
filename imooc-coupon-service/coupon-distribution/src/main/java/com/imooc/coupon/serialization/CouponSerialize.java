@@ -11,7 +11,7 @@ import java.text.SimpleDateFormat;
 
 /**
  * <h1>优惠券实体类自定义序列化器</h1>
- * Created by Qinyi.
+ * Created by Marbach
  */
 public class CouponSerialize extends JsonSerializer<Coupon> {
 

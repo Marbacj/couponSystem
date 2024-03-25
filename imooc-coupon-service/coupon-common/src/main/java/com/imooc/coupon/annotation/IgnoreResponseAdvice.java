@@ -8,6 +8,7 @@ import java.lang.annotation.Target;
 /**
  * <h1>忽略统一响应注解定义</h1>
  * Created by Marbach
+ * 特殊情况
  */
 @Target({ElementType.TYPE, ElementType.METHOD})
 @Retention(RetentionPolicy.RUNTIME)

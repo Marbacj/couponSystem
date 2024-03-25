@@ -27,6 +27,7 @@ import java.util.stream.Collectors;
 @Slf4j
 @Service
 public class AsyncServiceImpl implements IAsyncService {
+    //定义两个主要需要进行操作的,首先一个模板的dao层,一个redis
 
     /** CouponTemplate Dao */
     private final CouponTemplateDao templateDao;

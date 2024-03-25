@@ -19,7 +19,7 @@ import java.util.stream.Collectors;
 
 /**
  * <h1>满减 + 折扣优惠券结算规则执行器</h1>
- * Created by Qinyi.
+ * Created by Marbach
  */
 @Slf4j
 @Component
